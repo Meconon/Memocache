@@ -1,0 +1,9 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	
+	
+	
+	<s:String x:Key="/Default/Environment/ContinuousTesting/ScopeCriterion/@EntryValue">+SNpzQIAAACJbLoh9b0nIQIAAADRDtxcHwAAAEMAbwBuAHQAaQBuAHUAbwB1AHMAVABlAHMAdABpAG4AZwBIAG8AcwB0AFAAcgBvAHYAaQBkAGUAcgBJAGQAMIdivwEAAADlmsKXBgAAAE0AUwBUAGUAcwB0ACQAAABCAEQARABCADgANgAwAEUALQAxADIARQA3AC0ANABEAEMAQgAtAEIAQwBEADEALQA4ADgAQwA1ADgAQgBGADgANwA0ADgARgAlAAAATQBlAGMAbwBuAG8AbgAuAE0AZQBtAG8AYwBhAGMAaABlAFQAZQBzAHQAcwAuAE0AZQBtAG8AYwBhAGMAaABlAFQAZQBzAHQAcwA=</s:String>
+	<s:String x:Key="/Default/Environment/ContinuousTesting/SnapshotLocation/@EntryValue">C:\Users\mecon_000\AppData\Local\Temp\ssm.Vezunib.tmp</s:String>
+	
+	
+	<s:String x:Key="/Default/Environment/ContinuousTesting/PersistentDataLocation/@EntryValue">C:\Users\mecon_000\AppData\Local\Temp\JetBrains\ContinuousTesting\432ead8b-32e6-43fa-9021-6a95c4e0d8d2</s:String></wpf:ResourceDictionary>

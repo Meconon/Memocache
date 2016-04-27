@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Meconon.Memocache", "Meconon.Memocache.csproj", "{19A53518-34C9-4DDD-B98A-4566A8BCAE0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Meconon.MemocacheTests", "Meconon.MemocacheTests\Meconon.MemocacheTests.csproj", "{BDDB860E-12E7-4DCB-BCD1-88C58BF8748F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Memocache.Sample", "..\Memocache.Sample\Memocache.Sample.csproj", "{F9CFCE0C-D8CC-44FB-AB93-18826902C54F}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 1
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://drherbie.visualstudio.com/defaultcollection
+		SccProjectUniqueName0 = Meconon.Memocache.csproj
+		SccProjectName0 = .
+		SccAuxPath0 = https://drherbie.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProvider0 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+	EndGlobalSection
+	GlobalSection(CodealikeProperties) = postSolution
+		SolutionGuid = 0e6dca69-0e2d-4422-8329-d26e27b54b40
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19A53518-34C9-4DDD-B98A-4566A8BCAE0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19A53518-34C9-4DDD-B98A-4566A8BCAE0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19A53518-34C9-4DDD-B98A-4566A8BCAE0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19A53518-34C9-4DDD-B98A-4566A8BCAE0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDDB860E-12E7-4DCB-BCD1-88C58BF8748F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDDB860E-12E7-4DCB-BCD1-88C58BF8748F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDDB860E-12E7-4DCB-BCD1-88C58BF8748F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDDB860E-12E7-4DCB-BCD1-88C58BF8748F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9CFCE0C-D8CC-44FB-AB93-18826902C54F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9CFCE0C-D8CC-44FB-AB93-18826902C54F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9CFCE0C-D8CC-44FB-AB93-18826902C54F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9CFCE0C-D8CC-44FB-AB93-18826902C54F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
